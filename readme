@@ -1,0 +1,11 @@
+
+Pour lancer le projet:
+
+    npm run dev (lance le front et le back en même temps)
+
+La stack technique : React, Redux, Node, Express, MongoDB
+La base de donnée est héberger sur mongodb atlas
+
+Le projet est un faux site ecommerce de bière ou chaque bière est à l'effigie d'une personne de la promotion.
+
+Le front est réactif (ajout des items dans le panier, prix total) et utilise les élements de la base de donnée mongo.
